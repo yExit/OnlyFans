@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 from sys import exit
 from typing import Literal, get_args
+input()
 
 from helpers.main_helper import OptionsFormat
 
